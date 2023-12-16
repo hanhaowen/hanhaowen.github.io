@@ -11,7 +11,7 @@ github_repo: "https://github.com/hanhaowen/hanhaowen.github.io" # you code repos
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Fueled by the relentless pursuit of success!!"
+sidebar-about-description: "Both my bachelor's and master's degrees were obtained from Harbin Institute of Technology, with a major in Optical Engineering and Electronics. Currently, I am working at Moore Threads as a developer focusing on AI infrastructure development."
 sidebar-avatar: img/header.jpeg
 
 
